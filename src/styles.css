@@ -1,0 +1,68 @@
+.progr {
+  font-family: 'Poppins';
+  font: bold;
+  font-size: 28px;
+  color: #F1EEF3;
+  text-align: center;
+  padding-top: 24px;
+}
+
+.table {
+  width: 83%;
+  border-collapse: collapse;
+  background-color: #7917BB; 
+  font-family: 'Poppins';
+  color: #F1EEF3;
+  margin-top: 40px;
+  margin-left: 120px;
+}
+
+.table th,
+.table td {
+  padding: 0.5rem; 
+  padding-left: 16px;
+}
+
+.table th {
+  text-align: left;
+  font-weight: bold;
+  background-color: #7917BB; 
+  font-family: 'Poppins';
+  color: #F1EEF3;
+}
+
+.table-cont {
+  background-color: #7917BB;
+}
+
+.table th.th-file {
+  text-align: left;
+  font-weight: bold;
+  background-color: #F1EEF3; 
+  font-family: 'Poppins';
+  color: #17003B;
+}
+
+.file-cell {
+  background-color: #F1EEF3;  
+  font-family: 'Poppins';
+  color: #17003B;
+}
+
+.btn-outline-danger {
+  background-color: #F1EEF3;  
+  font-family: 'Poppins';
+  color: #17003B;  
+  border-radius: 10px;
+  border: none;
+}
+
+.btn-sm {
+  font-size: 1rem;
+  padding: 8px, 16px;  
+}
+
+.btn-outline-danger:hover {
+  background-color: #EBD6FA;  
+  cursor: pointer;
+}
